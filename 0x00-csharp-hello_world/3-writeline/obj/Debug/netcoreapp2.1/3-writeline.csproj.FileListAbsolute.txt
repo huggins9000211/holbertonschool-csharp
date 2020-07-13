@@ -1,0 +1,11 @@
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.dll
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/bin/Debug/netcoreapp2.1/3-writeline.pdb
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.dll
+/home/gins/holberton/holbertonschool-csharp/0x00-csharp-hello_world/3-writeline/obj/Debug/netcoreapp2.1/3-writeline.pdb
