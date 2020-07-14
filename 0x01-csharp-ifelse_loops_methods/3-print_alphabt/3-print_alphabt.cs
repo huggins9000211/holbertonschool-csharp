@@ -6,7 +6,13 @@ namespace _3_print_alphabt
     {
         static void Main(string[] args)
         {
-            Console.Write("abcdfghijklmnoprstuvwxyz");
+            for (int i = 97; i < 123; i++)
+            {
+                if (i != 101 && i != 113)
+                {
+                    Console.Write((char)i);
+                }
+            }
         }
     }
 }
