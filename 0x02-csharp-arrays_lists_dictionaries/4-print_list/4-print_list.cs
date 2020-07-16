@@ -14,6 +14,7 @@ class List
         {
             myArr[i] = i;
         }
+        Console.WriteLine(string.Join(" ", array));
         return myArr;
     }
 }
