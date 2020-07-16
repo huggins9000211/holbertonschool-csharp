@@ -14,7 +14,7 @@ class Array
         {
             if (i == size - 1)
             {
-                Console.WriteLine(i);
+                Console.Write(i);
                 myArray[i] = i;
             }
             else
@@ -24,6 +24,7 @@ class Array
             }
             
         }
+        Console.WriteLine();
         return myArray;
     }
 }
