@@ -1,0 +1,11 @@
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp2.1/7-delete_at.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp2.1/7-delete_at.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp2.1/7-delete_at.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp2.1/7-delete_at.dll
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/netcoreapp2.1/7-delete_at.pdb
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.dll
+/home/gins/holberton/holbertonschool-csharp/0x02-csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/netcoreapp2.1/7-delete_at.pdb
