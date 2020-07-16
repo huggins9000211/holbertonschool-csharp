@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Collections.Generic;
 
-class Program
+class List
 {
     public static List<bool> DivisibleBy2(List<int> myList)
     {
@@ -16,6 +17,7 @@ class Program
                 myL.Add(false);
             }
         }
+        return myL;
     }
 }
 
