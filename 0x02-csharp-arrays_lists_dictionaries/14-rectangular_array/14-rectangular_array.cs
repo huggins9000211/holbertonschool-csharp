@@ -6,7 +6,6 @@ namespace _14_rectangular_array
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(Array[2]);
             int[,] array = new int[5, 5];
             array[2, 2] = 1;
             for (int i = 0; i < 5; i++)
@@ -14,6 +13,10 @@ namespace _14_rectangular_array
                 for (int j = 0; j < 5; j++)
                 {
                     Console.Write(array[i, j]);
+                    if (j < 4)
+                    {
+                        Console.Write(" ");
+                    }
                 }
                 Console.WriteLine();
             }
