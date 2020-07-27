@@ -14,7 +14,7 @@ class MyQueue
         {
             Console.WriteLine("Queue is empty");
         }
-        aQueue.Queue(newItem); 
+        aQueue.Enqueue(newItem); 
         if (aQueue.Contains(search))
         {
             Console.WriteLine("Queue contains \"{0}\": True", search);
