@@ -7,6 +7,13 @@ class LList
     {
         int[] iArray = new int[myLList.Count];
         myLList.CopyTo(iArray, 0);
-        return iArray[n];
+        try
+        {
+            return iArray[n];
+        }
+        catch (System.Exception)
+        {
+            return 0;
+        }
     }
 }
