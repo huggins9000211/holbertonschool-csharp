@@ -7,7 +7,7 @@ class LList
     {
         int[] iArray = new int[myLList.Count];
         myLList.CopyTo(iArray, 0);
-        x = Array.IndexOf(iArray, value);
+        int x = Array.IndexOf(iArray, value);
         return x;
     }
 }
