@@ -5,7 +5,9 @@ class LList
 {
     public static int FindNode(LinkedList<int> myLList, int value)
     {
-        int x = myLList.Find(value);
+        int[] iArray = new int[myLList.Count];
+        myLList.CopyTo(iArray, 0);
+        x = Array.IndexOf(iArray, value);
         return x;
     }
 }
