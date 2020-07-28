@@ -18,6 +18,6 @@ struct Dog
 
     public string ToString()
     {
-        return("Dog Name: {0}\nAge: {1}\nOwner: {2}\nRating: {3}", this.name, this.age, this.owner, this.rating);
+        return ($"Dog Name: {this.name}\nAge: {this.age}\nOwner: {this.owner}\nRating: {this.rating}");
     }
 }
