@@ -16,7 +16,7 @@ struct Dog
         this.rating = r;
     }
 
-    public string ToString()
+    public override string ToString()
     {
         return ($"Dog Name: {this.name}\nAge: {this.age}\nOwner: {this.owner}\nRating: {this.rating}");
     }
