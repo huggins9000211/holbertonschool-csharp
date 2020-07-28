@@ -22,6 +22,10 @@ class List
             catch (ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
+                if (result.Count == 0)
+                {
+                    result.Add(0);
+                }
                 return result;
             }
             result.Add(x);
