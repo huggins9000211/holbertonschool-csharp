@@ -24,10 +24,8 @@ class List
                 Console.WriteLine("Out of range");
                 return result;
             }
-            finally
-            {
+
                 result.Add(x);
-            }
         }
         return result;
     }
