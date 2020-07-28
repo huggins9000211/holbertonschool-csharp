@@ -13,19 +13,19 @@ class List
             {
                 //Console.Write("*****");
                 x = list1[i]/list2[i];
+                result.Add(x);
                 //Console.WriteLine(x);
             }
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Cannot divide by zero");
+                result.Add(x);
             }
             catch (ArgumentOutOfRangeException)
             {
                 Console.WriteLine("Out of range");
-                return result;
             }
-
-                result.Add(x);
+            
         }
         return result;
     }
