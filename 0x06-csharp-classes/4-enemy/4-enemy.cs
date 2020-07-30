@@ -2,6 +2,9 @@
 
 namespace Enemies
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class Zombie
     {
         private int health;

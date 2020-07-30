@@ -4,5 +4,33 @@
         <name>4-enemy</name>
     </assembly>
     <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Enemies.Zombie.Name">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Enemies.Zombie.GetHealth">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
     </members>
 </doc>
