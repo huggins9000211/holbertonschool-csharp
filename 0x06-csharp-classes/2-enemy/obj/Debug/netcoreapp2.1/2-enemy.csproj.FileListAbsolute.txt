@@ -1,0 +1,4 @@
+/home/gins/holberton/holbertonschool-csharp/0x06-csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x06-csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x06-csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x06-csharp-classes/2-enemy/obj/Debug/netcoreapp2.1/2-enemy.AssemblyInfo.cs
