@@ -3,7 +3,7 @@
 namespace Enemies
 {
     /// <summary>
-    /// 
+    /// test
     /// </summary>
     public class Zombie
     {
@@ -11,9 +11,9 @@ namespace Enemies
         private string name = "(No name)";
 
         /// <summary>
-        /// 
+        /// test
         /// </summary>
-        /// <value></value>
+        /// <value>test</value>
         public string Name
         {
             get => name;
@@ -23,16 +23,16 @@ namespace Enemies
             }
         }
         /// <summary>
-        /// 
+        /// test
         /// </summary>
         public Zombie()
         {
             this.health = 0;
         }
         /// <summary>
-        /// 
+        /// test
         /// </summary>
-        /// <param name="value"></param>
+        /// <param name="value">test</param>
         public Zombie(int value)
         {
             if (value >= 0)
@@ -45,20 +45,20 @@ namespace Enemies
             }
         }
         /// <summary>
-        /// 
+        /// test
         /// </summary>
-        /// <returns></returns>
+        /// <returns>test</returns>
         public int GetHealth()
         {
             return this.health;
         }
         /// <summary>
-        /// 
+        /// test
         /// </summary>
-        /// <returns></returns>
+        /// <returns>test</returns>
         public override string ToString()
         {
-            return $"Zombie name: {this.Name} / Total Health: {this.GetHealth().ToString()}";
+            return $"Zombie name: {this.Name} / Total Health: {this.GetHealth()}";
         }
     }
 }
