@@ -58,8 +58,7 @@ namespace Enemies
         /// <returns></returns>
         public override string ToString()
         {
-            Console.WriteLine($"Zombie name: {this.Name} / Total Health: {this.GetHealth()}");
-            return $"Zombie name: {this.Name} / Total Health: {this.GetHealth()}";
+            return $"Zombie name: {this.Name} / Total Health: {this.GetHealth().ToString()}";
         }
     }
 }
