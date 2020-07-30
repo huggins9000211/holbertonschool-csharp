@@ -56,7 +56,7 @@ namespace Enemies
         /// 
         /// </summary>
         /// <returns></returns>
-        public override string ToString()
+        public override string toString()
         {
             return $"Zombie name: {this.Name} / Total Health: {this.GetHealth()}";
         }
