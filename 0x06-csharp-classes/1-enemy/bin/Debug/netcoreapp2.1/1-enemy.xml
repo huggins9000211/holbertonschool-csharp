@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enemy</name>
+    </assembly>
+    <members>
+        <member name="T:Enemies.Zombie">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="F:Enemies.Zombie.health">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Enemies.Zombie.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
