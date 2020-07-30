@@ -7,7 +7,7 @@ namespace Enemies
         public int health;
         public Zombie()
         {
-            this.health = 0;
+            health = 0;
         }
     }
 }
