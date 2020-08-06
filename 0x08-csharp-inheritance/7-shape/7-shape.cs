@@ -44,7 +44,7 @@ class Rectangle : Shape
         return width * height;
     }
 
-    public override ToString()
+    public override String ToString()
     {
         return $"[Rectangle] {width} / {height}";
     }
