@@ -13,24 +13,18 @@ class Obj
     /// <param name="myObj"></param>
     public static void Print(object myObj)
     {
-        TypeInfo t = myObj.GetType().GetTypeInfo();
-        IEnumerable<PropertyInfo> pList = t.DeclaredProperties;
-        IEnumerable<MethodInfo> mList = t.DeclaredMethods;
+        Type t = myObj.GetType();
+        PropertyInfo[] pList = t.GetProperties();
+        MethodInfo[] mList = t.GetMethods();
         Console.WriteLine($"{myObj.GetType().Name} Properties:");
         foreach (PropertyInfo p in pList)
         {
-            if (!p.Name.Contains("System."))
-            {
-                Console.WriteLine(p.Name);
-            }
+            Console.WriteLine(p.Name);
         }
         Console.WriteLine($"{myObj.GetType().Name} Methods:");
         foreach (MethodInfo m in mList)
         {
-            if (!m.Name.Contains("System."))
-            {
-                Console.WriteLine(m.Name);
-            }
+            Console.WriteLine(m.Name);
         }
     }
 }
