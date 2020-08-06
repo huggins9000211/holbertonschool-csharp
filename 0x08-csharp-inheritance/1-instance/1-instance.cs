@@ -4,8 +4,7 @@ class Obj
 {
     public static bool IsOfTypeInt(object obj)
     {
-        Type t = obj.GetType();
-        if (t == typeof(int))
+        if (obj is Array)
         {
             return true;
         }
