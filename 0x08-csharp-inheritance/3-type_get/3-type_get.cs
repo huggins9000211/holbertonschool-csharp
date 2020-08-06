@@ -6,7 +6,6 @@ class Obj
 {
     public static void Print(object myObj)
     {
-        //Type x = myObj.GetType();
         TypeInfo t = myObj.GetType().GetTypeInfo();
         IEnumerable<PropertyInfo> pList = t.DeclaredProperties;
         IEnumerable<MethodInfo> mList = t.DeclaredMethods;
@@ -25,10 +24,6 @@ class Obj
             {
                 Console.WriteLine(m.Name);
             }
-            //Console.Write(m.DeclaringType.Name);
-            // Console.Write(m.DeclaringType.Name);
-            // Console.Write(" ::: ");
-            // Console.WriteLine(m.Name);
         }
     }
 }
