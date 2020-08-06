@@ -2,7 +2,7 @@
 
 class Obj
 {
-    public static bool IsOfTypeInt(object obj)
+    public static bool IsInstanceOfArray(object obj)
     {
         if (obj is Array)
         {
