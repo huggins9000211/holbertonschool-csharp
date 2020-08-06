@@ -2,8 +2,15 @@
 using System.Collections.Generic;
 using System.Reflection;
 
+/// <summary>
+/// 
+/// </summary>
 class Obj
 {
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="myObj"></param>
     public static void Print(object myObj)
     {
         TypeInfo t = myObj.GetType().GetTypeInfo();
