@@ -4,5 +4,17 @@
         <name>0-is</name>
     </assembly>
     <members>
+        <member name="T:Obj">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Obj.IsOfTypeInt(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
