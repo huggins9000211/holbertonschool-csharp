@@ -70,6 +70,6 @@ class Square : Rectangle
 
     public override String ToString()
     {
-        return $"[Square] {width} / {height}";
+        return $"[Square] {size} / {size}";
     }
 }

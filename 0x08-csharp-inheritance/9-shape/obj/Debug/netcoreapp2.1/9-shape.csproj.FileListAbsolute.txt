@@ -1,0 +1,12 @@
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.dll
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.pdb
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/bin/Debug/netcoreapp2.1/9-shape.xml
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.dll
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/9-shape/obj/Debug/netcoreapp2.1/9-shape.pdb
