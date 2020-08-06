@@ -1,0 +1,12 @@
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.dll
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.pdb
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/bin/Debug/netcoreapp2.1/0-is.xml
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.dll
+/home/gins/holberton/holbertonschool-csharp/0x08-csharp-inheritance/0-is/obj/Debug/netcoreapp2.1/0-is.pdb
