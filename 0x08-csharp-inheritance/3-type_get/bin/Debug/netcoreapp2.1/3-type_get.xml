@@ -4,5 +4,16 @@
         <name>3-type_get</name>
     </assembly>
     <members>
+        <member name="T:Obj">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Obj.Print(System.Object)">
+            <summary>
+            
+            </summary>
+            <param name="myObj"></param>
+        </member>
     </members>
 </doc>
