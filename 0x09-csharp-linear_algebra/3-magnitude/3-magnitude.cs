@@ -6,13 +6,13 @@
 /// </summary>
 class VectorMath
 {
-    static void Main(string[] args)
-    {
-        double[] test = new double[] {3, 9};
-        double[] test2 = new double[] {7, -3, -9};
-        Console.WriteLine(Magnitude(test));
-        Console.WriteLine(Magnitude(test2));
-    }
+    // static void Main(string[] args)
+    // {
+    //     double[] test = new double[] {3, 9};
+    //     double[] test2 = new double[] {7, -3, -9};
+    //     Console.WriteLine(Magnitude(test));
+    //     Console.WriteLine(Magnitude(test2));
+    // }
 
     /// <summary>
     /// 
