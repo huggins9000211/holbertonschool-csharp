@@ -4,5 +4,17 @@
         <name>3-magnitude</name>
     </assembly>
     <members>
+        <member name="T:VectorMath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:VectorMath.Magnitude(System.Double[])">
+            <summary>
+            
+            </summary>
+            <param name="vector"></param>
+            <returns></returns>
+        </member>
     </members>
 </doc>
