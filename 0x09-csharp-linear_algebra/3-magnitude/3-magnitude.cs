@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 /// <summary>
 /// 
 /// </summary>
@@ -23,11 +22,25 @@ class VectorMath
     {
         if (vector.Length == 2)
         {
-            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)), 1);
+            try
+            {
+                return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)), 1);
+            }
+            catch (System.Exception)
+            {
+                return(-1) ;   
+            }
         }
         else if (vector.Length == 3)
         {
-            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)), 1);
+            try
+            {
+                return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)), 1);
+            }
+            catch (System.Exception)
+            {
+                return(-1);
+            }
         }
         return(-1);
     }
