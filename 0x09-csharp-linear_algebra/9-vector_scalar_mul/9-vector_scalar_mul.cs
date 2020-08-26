@@ -11,7 +11,7 @@ class VectorMath
         }
         else if (vector.Length == 3)
         {
-            double[] resut = new double[] {vector[0] * scalar, vector[1] * scalar, vector1[2] * scalar};
+            double[] resut = new double[] {vector[0] * scalar, vector[1] * scalar, vector[2] * scalar};
             return (resut);
         }
         return(new double[] {-1});
