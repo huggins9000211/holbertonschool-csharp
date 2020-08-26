@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Numerics;
 
+/// <summary>
+/// 
+/// </summary>
 class VectorMath
 {
     // static void Main(string[] args)
@@ -11,6 +14,11 @@ class VectorMath
     //     Console.WriteLine(Magnitude(test2));
     // }
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="vector"></param>
+    /// <returns></returns>
     public static double Magnitude(double[] vector)
     {
         if (vector.Length == 2)
