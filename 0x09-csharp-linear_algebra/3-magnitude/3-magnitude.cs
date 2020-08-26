@@ -23,13 +23,11 @@ class VectorMath
     {
         if (vector.Length == 2)
         {
-            Vector2 result = new Vector2((float)vector[0], (float)vector[1]);
-            return Math.Round(result.Length(), 2);
+            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2)), 2);
         }
         else if (vector.Length == 3)
         {
-            Vector3 result = new Vector3((float)vector[0], (float)vector[1], (float)vector[2]);
-            return Math.Round(result.Length(), 2);
+            return Math.Round(Math.Sqrt(Math.Pow(vector[0], 2) + Math.Pow(vector[1], 2) + Math.Pow(vector[2], 2)), 2);
         }
         return(-1);
     }
