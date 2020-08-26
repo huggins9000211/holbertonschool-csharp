@@ -8,9 +8,9 @@ class VectorMath
         double[] test2 = new double[] {7, -3};
         double[] resut = Add(test, test2);
         foreach(var item in resut)
-            {
-                Console.WriteLine(item);
-            }
+        {
+            Console.WriteLine(item);
+        }
     }
     public static double[] Add(double[] vector1, double[] vector2)
     {
