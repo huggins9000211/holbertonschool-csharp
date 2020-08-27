@@ -4,7 +4,7 @@ class MatrixMath
 {
     public static void Main()
     {
-        double[,] matrix = { { 13, 10, 8 }, { 2, 0, 14 }, {-4, -5, 2} };
+        double[,] matrix = { { -13, 10, 8 }, { 2, 0, 14 }, {-4, -5, 2} };
         double[,] matrix2 = { { 6, 16, 21 }, { 5, 2, 0 }, {1, 3, 7} };
         double[,] result = MultiplyScalar(matrix, 4);
         if (matrix.Length == 4 && matrix2.Length == 4)
