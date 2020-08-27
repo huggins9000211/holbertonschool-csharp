@@ -2,24 +2,24 @@
 
 class MatrixMath
 {
-    // public static void Main()
-    // {
-    //     double[,] matrix = { { 14, -3, 0 }, { -11, -5, 3 }, {2, -9, 13} };
-    //     double[,] matrix2 = { { 6, 16, 21 }, { 5, 2, 0 }, {1, 3, 7} };
-    //     double[,] result = Add(matrix, matrix2);
-    //     if (matrix.Length == 4 && matrix2.Length == 4)
-    //     {
+    public static void Main()
+    {
+        double[,] matrix = { { 13, 10, 8 }, { 2, 0, 14 }, {-4, -5, 2} };
+        double[,] matrix2 = { { 6, 16, 21 }, { 5, 2, 0 }, {1, 3, 7} };
+        double[,] result = MultiplyScalar(matrix, 4);
+        if (matrix.Length == 4 && matrix2.Length == 4)
+        {
 
-    //     }
+        }
 
-    //     foreach (var item in result)
-    //     {
-    //         Console.WriteLine(item);
-    //         // foreach (var item2 in item)
-    //         // {
-    //         // }
-    //     }
-    // }
+        foreach (var item in result)
+        {
+            Console.WriteLine(item);
+            // foreach (var item2 in item)
+            // {
+            // }
+        }
+    }
     public static double[,] MultiplyScalar(double[,] matrix, double scalar)
     {
         if ((matrix.Length == 4))
