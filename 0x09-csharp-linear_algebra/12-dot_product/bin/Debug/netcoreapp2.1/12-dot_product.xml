@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>12-dot_product</name>
+    </assembly>
+    <members>
+        <member name="T:VectorMath">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
