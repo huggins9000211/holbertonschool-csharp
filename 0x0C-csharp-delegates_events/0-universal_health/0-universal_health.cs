@@ -1,11 +1,19 @@
 ﻿using System;
 
+/// <summary>
+/// 
+/// </summary>
 class Player
 {
     private string name;
     private float maxHp;
     private float hp;
 
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="name"></param>
+    /// <param name="maxHp"></param>
     public Player(string name = "Player", float maxHp = 100f)
     {
         if (maxHp > 0)
@@ -20,6 +28,9 @@ class Player
         this.name = name;
     }
 
+    /// <summary>
+    /// 
+    /// </summary>
     public void PrintHealth()
     {
         Console.WriteLine($"{this.name} has {this.hp} / {this.maxHp} health");
