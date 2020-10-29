@@ -5,8 +5,11 @@
 /// </summary>
 class Player
 {
+    //Test
     private string name;
+    //Test
     private float maxHp;
+    //Test
     private float hp;
 
     /// <summary>
