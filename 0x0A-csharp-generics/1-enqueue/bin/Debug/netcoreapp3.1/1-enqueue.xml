@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>1-enqueue</name>
+    </assembly>
+    <members>
+        <member name="T:Queue`1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Queue`1.Node">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Queue`1.Node.#ctor(`0)">
+            <summary>
+            
+            </summary>
+            <param name="input"></param>
+        </member>
+        <member name="P:Queue`1.Node.value">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="P:Queue`1.Node.next">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="P:Queue`1.head">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="P:Queue`1.tail">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="P:Queue`1.count">
+            <summary>
+            
+            </summary>
+            <value></value>
+        </member>
+        <member name="M:Queue`1.Enqueue(`0)">
+            <summary>
+            
+            </summary>
+            <param name="newVal"></param>
+        </member>
+        <member name="M:Queue`1.Count">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
