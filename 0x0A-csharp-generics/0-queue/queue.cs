@@ -2,13 +2,13 @@
 /// <summary>
 /// test
 /// </summary>
-/// <typeparam name="T"></typeparam>
+/// <typeparam name="T">test</typeparam>
 public class Queue<T>
 {
     /// <summary>
     /// test
     /// </summary>
-    /// <returns></returns>
+    /// <returns>test</returns>
     public System.Type CheckType()
     {
         return typeof(T);

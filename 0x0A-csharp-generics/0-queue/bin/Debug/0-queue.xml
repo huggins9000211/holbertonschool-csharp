@@ -4,5 +4,17 @@
         <name>0-queue</name>
     </assembly>
     <members>
+        <member name="T:Queue`1">
+            <summary>
+            test
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Queue`1.CheckType">
+            <summary>
+            test
+            </summary>
+            <returns></returns>
+        </member>
     </members>
 </doc>
