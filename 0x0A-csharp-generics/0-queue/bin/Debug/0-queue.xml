@@ -8,13 +8,13 @@
             <summary>
             test
             </summary>
-            <typeparam name="T"></typeparam>
+            <typeparam name="T">test</typeparam>
         </member>
         <member name="M:Queue`1.CheckType">
             <summary>
             test
             </summary>
-            <returns></returns>
+            <returns>test</returns>
         </member>
     </members>
 </doc>
