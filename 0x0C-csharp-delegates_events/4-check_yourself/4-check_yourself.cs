@@ -50,6 +50,7 @@ class Player
         this.hp = this.maxHp;
         this.name = name;
         status = $"<name> is ready to go!";
+        HPCheck = CheckStatus;
     }
     public delegate void CalculateHealth(float amount);
 
@@ -105,6 +106,7 @@ class Player
             this.hp = this.maxHp;
         else
             this.hp = newHp;
+        HPCheck(hp);
     }
 
     public float ApplyModifier(float baseValue, Modifier modifier)
