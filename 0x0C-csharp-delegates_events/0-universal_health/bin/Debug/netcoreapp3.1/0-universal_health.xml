@@ -4,5 +4,22 @@
         <name>0-universal_health</name>
     </assembly>
     <members>
+        <member name="T:Player">
+            <summary>
+            test
+            </summary>
+        </member>
+        <member name="M:Player.#ctor(System.String,System.Single)">
+            <summary>
+            test
+            </summary>
+            <param name="name">test</param>
+            <param name="maxHp">test</param>
+        </member>
+        <member name="M:Player.PrintHealth">
+            <summary>
+            test
+            </summary>
+        </member>
     </members>
 </doc>
