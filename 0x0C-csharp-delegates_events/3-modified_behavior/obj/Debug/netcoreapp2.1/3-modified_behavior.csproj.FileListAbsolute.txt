@@ -1,0 +1,13 @@
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.dll
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/bin/Debug/netcoreapp2.1/3-modified_behavior.xml
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.dll
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/3-modified_behavior/obj/Debug/netcoreapp2.1/3-modified_behavior.genruntimeconfig.cache

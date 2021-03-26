@@ -9,16 +9,7 @@ enum Modifier
     Base,
     Strong
 }
-public delegate float CalculateModifier(float baseValue, Modifier modifier);
-public float ApplyModifier(float baseValue, Modifier modifier)
-{
-    if (modifier == Modifier.Weak)
-        return baseValue / 2;
-    if (modifier == Modifier.Base)
-        return baseValue;
-    if (modifier == Modifier.Strong)
-        return baseValue * 1.5;       
-}
+delegate float CalculateModifier(float baseValue, Modifier modifier);
 
 class Player
 {
@@ -71,6 +62,16 @@ class Player
             this.hp = this.maxHp;
         else
             this.hp = newHp;
+    }
+
+    public float ApplyModifier(float baseValue, Modifier modifier)
+    {
+        if (modifier == Modifier.Weak)
+            return baseValue / 2.0f;
+        else if (modifier == Modifier.Strong)
+            return baseValue * 1.5f;   
+        else
+            return baseValue;    
     }
     /// <summary>
     /// test
