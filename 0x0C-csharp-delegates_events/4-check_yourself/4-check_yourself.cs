@@ -54,33 +54,33 @@ class Player
     }
     public delegate void CalculateHealth(float amount);
 
-    CurrentHPArgs HPCheck;
+    public EventHandler<CurrentHPArgs> HPCheck;
 
     private void CheckStatus(object sender, CurrentHPArgs e)
     {
         if (e.currentHp == maxHp)
         {
-            status = $"<name> is in perfect health!";
+            status = $"{name} is in perfect health!";
             Console.WriteLine(status);
         }
         if ((e.currentHp >= maxHp/2) && (e.currentHp < maxHp))
         {
-            status = $"<name> is doing well!";
+            status = $"{name} is doing well!";
             Console.WriteLine(status);
         }
         if ((e.currentHp >= maxHp/4) && (e.currentHp < maxHp/2))
         {
-            status = $"<name> isn't doing too great...";
+            status = $"{name} isn't doing too great...";
             Console.WriteLine(status);
         }
         if ((e.currentHp > 0) && (e.currentHp < maxHp/4))
         {
-            status = $"<name> needs help!";
+            status = $"{name} needs help!";
             Console.WriteLine(status);
         }
         if (e.currentHp == 0)
         {
-            status = $"<name> is knocked out!";
+            status = $"{name} is knocked out!";
             Console.WriteLine(status);
         }
     }
@@ -106,7 +106,7 @@ class Player
             this.hp = this.maxHp;
         else
             this.hp = newHp;
-        HPCheck(hp);
+        HPCheck(this, new CurrentHPArgs(hp));
     }
 
     public float ApplyModifier(float baseValue, Modifier modifier)

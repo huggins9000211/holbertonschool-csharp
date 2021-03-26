@@ -1,0 +1,13 @@
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.AssemblyInfoInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.AssemblyInfo.cs
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.dll
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/bin/Debug/netcoreapp2.1/4-check_yourself.xml
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.dll
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/obj/Debug/netcoreapp2.1/4-check_yourself.genruntimeconfig.cache

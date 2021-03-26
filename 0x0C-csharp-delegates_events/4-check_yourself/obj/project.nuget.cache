@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "nm8u3/yfaCY396KO+3AnaIkxPV+C+9RKy2eUv8BSV4JX0NDldtONYDu6nGV7D3mzvoEj3bN70TPkNxTs7vIrAg==",
+  "dgSpecHash": "KOQXjt5YAaBT0xgtCyLznTECAGwYOizdX2wEvBp1SLLC0/LmdNoc+GGcRn09klRzkttFM0ppHpFm1yOHOLGc5Q==",
   "success": true,
   "projectFilePath": "/home/gins/holberton/holbertonschool-csharp/0x0C-csharp-delegates_events/4-check_yourself/4-check_yourself.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
