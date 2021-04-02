@@ -1,0 +1,11 @@
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/obj/Debug/netcoreapp2.1/InventoryManagement.csprojAssemblyReference.cache
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/obj/Debug/netcoreapp2.1/InventoryManagement.csproj.CoreCompileInputs.cache
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.deps.json
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.runtimeconfig.json
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.runtimeconfig.dev.json
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.dll
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/bin/Debug/netcoreapp2.1/InventoryManagement.xml
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/obj/Debug/netcoreapp2.1/InventoryManagement.dll
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/obj/Debug/netcoreapp2.1/InventoryManagement.pdb
+/home/gins/holberton/holbertonschool-csharp/0x0D-csharp-text_based_interface/InventoryManagement/obj/Debug/netcoreapp2.1/InventoryManagement.genruntimeconfig.cache
