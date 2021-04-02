@@ -140,7 +140,7 @@ namespace InventoryManagement
                     if (getEnd(entry.Key.ToLower()) == enterdID)
                     {
                         myStorage.objects.Remove(entry.Key);
-                        myStorage.Save;
+                        myStorage.Save();
                         return;
                     }
                 }
@@ -175,6 +175,12 @@ namespace InventoryManagement
                         break;
                     case "show":
                         Create();
+                        break;
+                    case "delete":
+                        Delete();
+                        break;
+                    case "exit":
+                        return;
                         break;
                     default:
                         myIO("Command not recognized...\nPress Enter to try again...\n");
